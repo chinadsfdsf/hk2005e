@@ -239,6 +239,12 @@ anchor = "smart"
   url    = "/hot/memehongkong/"
   pre    = "Hot"
 
+[[menu.main]]
+  weight = 89
+  name   = "唐柏桥"
+  url    = "/hot/tangbaiqiao/"
+  pre    = "Hot"
+
 
 # right aligned
 #[[menu.topbar]]
