@@ -125,7 +125,7 @@ anchor = "smart"
 # provide translations in i18n/*.yaml
 [[menu.main]]
   weight = 1
-  name   = "返回主页"
+  name   = "主页"
   url    = "/index.html"
   pre    = "fas fa-home"
 
@@ -230,7 +230,7 @@ anchor = "smart"
 [[menu.main]]
   weight = 87
   #name   = "每日疫情"
-  name   = "每日"
+  name   = "疫情"
   url    = "/hot/fuckccp/"
   pre    = "Hot"
 [[menu.main]]
