@@ -21,6 +21,7 @@ categories:
 {{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_城寨_singjai" link="/byauthor/137c0c40b21b8b71f099b0928484f5e7/index.html">}}
 {{< mydiv4o text="youtube_新中国频道" link="/byauthor/9c2796e39baeebdad02d1dfde53ebc3d/index.html">}}
+{{< mydiv4o text="youtube_新唐人亞太電視台ntdaptv" link="/byauthor/58b671d272c14879c3b582290ddd068b/index.html">}}
 {{< mydiv4o text="youtube_珍言真語_//_大紀元" link="/byauthor/23ac1eed043b009eac214f05797e5869/index.html">}}
 {{< mydiv4o text="youtube_關鍵時刻" link="/byauthor/597b808e8c6e5d74097d4cf1de92f18e/index.html">}}
 {{< mydiv4o text="youtube_香港花生" link="/byauthor/ee4029c299c760ec815004094d7f53e7/index.html">}}
